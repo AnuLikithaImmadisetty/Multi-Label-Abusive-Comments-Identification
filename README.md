@@ -1,7 +1,7 @@
 # Multi-Label Abusive Comments Identification  
 Welcome to the "Multi-Label Abusive Comments Identification" repository! This project is dedicated to detecting and categorizing abusive comments using machine learning and natural language processing techniques. It leverages a combination of traditional algorithms and deep learning models to ensure accurate and effective identification of various forms of toxic language.
 
-## Table of Contents  
+## Table of Contents   
  - [Overview](#overview)
  - [Project Structure](#project-structure)
  - [Dataset and Files Description](#dataset-and-files-description)
