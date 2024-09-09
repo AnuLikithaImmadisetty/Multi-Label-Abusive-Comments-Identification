@@ -27,8 +27,7 @@ Here's an overview of the project's structure
 │    ├── sample_submissions.csv
 │    └── test_labels.csv  
 │
-├── Documentations/
-│   ├── requirements.txt  
+├── Documentations/ 
 │   ├── Metrics.xlsx    
 │   └── Documentation.pdf
 │
