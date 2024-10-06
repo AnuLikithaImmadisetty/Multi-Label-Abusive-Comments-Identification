@@ -28,7 +28,7 @@ Here's an overview of the project's structure
 │    └── test_labels.csv  
 │
 ├── Documentations/ 
-│   ├── Metrics.xlsx    
+│   ├── METRICS.pdf    
 │   └── Documentation.pdf
 │
 ├── Images/            
