@@ -7,7 +7,6 @@ Welcome to the "Multi-Label Abusive Comments Identification" repository! This pr
  - [Dataset and Files Description](#dataset-and-files-description)
  - [Features](#features)
  - [Tools and Technologies](#tools-and-technologies)
- - [Results](#results)
  - [Documentation](#documentation)
  - [Getting Started](#getting-started)
  - [Usage](#usage)
@@ -28,7 +27,6 @@ Here's an overview of the project's structure
 │    └── test_labels.csv  
 │
 ├── Documentations/ 
-│   ├── METRICS.pdf    
 │   └── Documentation.pdf
 │
 ├── Images/            
@@ -108,9 +106,6 @@ This project leverages a variety of machine learning and deep learning algorithm
 💻📓**Jupyter Notebook/Google Colab:** For interactive model development and testing.
 
 Refer to the [Models](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/tree/main/Models) here!
-
-## Results  
-Refer to the metrics [Results](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/METRICS.pdf) here!
 
 ## Documentation  
 Refer to the [Documentation](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/Documentation.pdf) here!
