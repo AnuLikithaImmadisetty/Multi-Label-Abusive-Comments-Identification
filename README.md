@@ -27,9 +27,7 @@ Here's an overview of the project's structure
 │    └── test_labels.csv  
 │
 ├── Documentations/
-│   ├── AMD-III-36.PPT
-│   ├── Metrics.pdf
-│   └── OCIT Research Paper Publish - FINAL.pdf
+│   └── Metrics.pdf
 │
 ├── Images/            
 │   ├── TF-IDF Plots
