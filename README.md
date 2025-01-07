@@ -26,8 +26,10 @@ Here's an overview of the project's structure
 │    ├── sample_submissions.csv
 │    └── test_labels.csv  
 │
-├── Documentations/ 
-│   └── Documentation.pdf
+├── Documentations/
+│   ├── AMD-III-36.PPT
+│   ├── 
+│   └── OCIT Research Paper Publish - FINAL.pdf
 │
 ├── Images/            
 │   ├── TF-IDF Plots
