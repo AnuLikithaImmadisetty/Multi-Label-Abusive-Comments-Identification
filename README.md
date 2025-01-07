@@ -28,7 +28,7 @@ Here's an overview of the project's structure
 │
 ├── Documentations/
 │   ├── AMD-III-36.PPT
-│   ├── 
+│   ├── Metrics.pdf
 │   └── OCIT Research Paper Publish - FINAL.pdf
 │
 ├── Images/            
@@ -110,7 +110,7 @@ This project leverages a variety of machine learning and deep learning algorithm
 Refer to the [Models](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/tree/main/Models) here!
 
 ## Documentation  
-Refer to the [Documentation](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/Documentation.pdf) here!
+Refer to the [Research Paper](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/OCIT Research Paper Publish - FINAL.pdf) here!
 
 ## Getting Started  
 To get started with the Multi Label Abusive Comments Identification project, follow these steps:  
