@@ -110,7 +110,7 @@ This project leverages a variety of machine learning and deep learning algorithm
 Refer to the [Models](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/tree/main/Models) here!
 
 ## Documentation  
-Refer to the [Research Paper](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/OCIT Research Paper Publish - FINAL.pdf) here!
+Refer to the [Research Paper]([https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/OCIT Research Paper Publish - FINAL.pdf](https://github.com/AnuLikhithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/OCIT%20Research%20Paper%20Publish%20-%20FINAL.pdf)) here!
 
 ## Getting Started  
 To get started with the Multi Label Abusive Comments Identification project, follow these steps:  
