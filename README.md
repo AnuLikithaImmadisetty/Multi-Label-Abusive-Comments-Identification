@@ -1,5 +1,5 @@
 # Multi Label Abusive Comments Identification  
-Welcome to the "Multi-Label Abusive Comments Identification" repository! This project is dedicated to detecting and categorizing abusive comments using machine learning and natural language processing techniques. It leverages a combination of traditional algorithms and deep learning models to ensure accurate and effective identification of various forms of toxic language.
+Welcome to the "Multi-Label Abusive Comments Identification" repository! This project & research paper is dedicated to detecting and categorizing abusive comments using machine learning and natural language processing techniques. It leverages a combination of traditional algorithms and deep learning models to ensure accurate and effective identification of various forms of toxic language.
 
 ## Table of Contents   
  - [Overview](#overview)
@@ -26,8 +26,9 @@ Here's an overview of the project's structure
 │    ├── sample_submissions.csv
 │    └── test_labels.csv  
 │
-├── Documentations/
-│   └── Metrics.pdf
+├── Documentation
+│
+├── OCIT Research Day
 │
 ├── Images/            
 │   ├── TF-IDF Plots
@@ -108,7 +109,7 @@ This project leverages a variety of machine learning and deep learning algorithm
 Refer to the [Models](https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/tree/main/Models) here!
 
 ## Documentation  
-Refer to the [Research Paper]([https://github.com/AnuLikithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/OCIT Research Paper Publish - FINAL.pdf](https://github.com/AnuLikhithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/OCIT%20Research%20Paper%20Publish%20-%20FINAL.pdf)) here!
+Refer to the [Metrics]([https://github.com/AnuLikhithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/METRICS.pdf](https://github.com/AnuLikhithaImmadisetty/Multi-Label-Abusive-Comments-Identification/blob/main/Documentations/METRICS.pdf)) here!
 
 ## Getting Started  
 To get started with the Multi Label Abusive Comments Identification project, follow these steps:  
